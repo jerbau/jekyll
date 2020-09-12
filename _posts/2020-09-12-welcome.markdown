@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-09-12 20:57:03 +0800
+categories: announcement
+---
+Hi and welcome!
+
+You are probably a __Town & Country Executive Village__(TCEV) resident or at least know someone who lives there right? I have started a website that you can use in case of an emergency and by the time you are in an emergency situation, most of the contact information would probably be acurate. You can check out my ongoing [project][tcev-project] that would eventually have the content roll over here. In the coming few weeks, I would wrangle Jekyll to come up with a site that would just might actually save a life someday.
+
+[tcev-project]: https://app.simplenote.com/p/SPSlbJ
