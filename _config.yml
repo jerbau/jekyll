@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: [beta] TCEV Emergency
+title: TCEV Emergency beta
 email: jerbau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   TCEV Emergency aims to provide a quick and modern approach to 
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   during an emergency. This is entirely a personal project made by
   Jerome T. Bautista.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tcev-emergency.onrender.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://beta-tcev-emergency.onrender.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jerbau
 github_username:  jerbau
 permalink: /:categories/:year/:month/:day/:title
