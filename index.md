@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# [beta] TCEV Emergency
+# TCEV Emergency beta
 
 This is the first commit.
