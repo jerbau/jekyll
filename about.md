@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Overview
+This web project is a rift from another personal [project](https://app.simplenote.com/p/SPSlbJ) that was started on September 9, 2020. Once complete, visitors may use this completely ad-free site as a resource to contact authorities in case of emergency or for whatever purpose they deem fit.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Web Specs
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This is a static website built using [render.com](https://render.com/) + [github.com](https://github.com/)
+
+[https://kramdown.gettalong.org/](kramdown) - free MIT-licensed [Ruby](http://www.ruby-lang.org/) library for parsing and converting a superset of Markdown
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+__Jerome__ is a professional freelance web and graphic developer who is currently residing in Town &amp; Country Executive Village.
+
+You may message him via Facebook Messenger [here](https://m.me/jerbau).
+
+Thanks for visiting!
