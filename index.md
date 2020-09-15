@@ -7,4 +7,4 @@ layout: home
 
 # TCEV Emergency beta
 
-This is actually working! Hahaha!
+This is so going to be awesome.

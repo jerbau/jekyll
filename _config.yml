@@ -29,6 +29,9 @@ github_username:  jerbau
 facebook_username: jerbau
 dribbble_username: jerbau
 
+site.minima.date_format: "%-d%b%Y"
+
+google_analytics: UA-178036965-1
 
 permalink: /:categories/:year/:month/:day/:title
 
