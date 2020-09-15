@@ -5,6 +5,33 @@
 layout: home
 ---
 
-## TCEV Emergency beta
+## Level of emergency
 
-This is so going to be awesome.
+### Village
+* Village Security
+* Home Repair
+* Auto Mechanic
+
+### Barangay
+* Police Department
+* Ambulance/Hospital
+* Fire Department
+
+### City
+* Red Cross
+* Covid-19
+
+### Utilities
+* Manila Water
+* Meralco
+* PLDT
+* Globe Telecom
+* Smart Communications
+
+### Other
+* NDRRMC
+* Civil Defense
+* DSWD
+* WCPC
+* VAWCD
+* PCW

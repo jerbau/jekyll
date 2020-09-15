@@ -16,8 +16,9 @@
 title: TCEV Emergency beta
 email: jerbau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  TCEV Emergency aims to provide an ideal way to help TCEV residents
-  find and contact an appropriate government agency during an emergency.
+  TCEV Emergency aims to provide an efficient way to help
+  residents of the community find and contact an appropriate
+  government agency during an emergency.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tcev-emergency.onrender.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jerbau
