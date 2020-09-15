@@ -11,3 +11,10 @@
         &:last-of-type { margin-right: 0 }
     }    
 }
+
+footer > div .footer {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
