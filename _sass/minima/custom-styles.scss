@@ -4,6 +4,7 @@
 
 .social-media-list {
     display: flex;
+    justify-content: center;
     margin: 0 auto;
     li + li { padding-top: 0 }
     li {        
@@ -12,9 +13,14 @@
     }    
 }
 
+.social-media-list li, .pagination li {
+    margin: 0 4px;
+}
+
 footer > div .footer {
-    margin: 0 auto;
+    margin: 1em auto 0;
     display: inline-block;
     vertical-align: middle;
     text-align: center;
+    width: 100%;
 }

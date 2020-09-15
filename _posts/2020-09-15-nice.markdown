@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Nice"
-date:   2020-09-12 20:57:03 +0800
+date:   2020-09-15 21:45:00 +0800
 categories: announcement
 ---
 
 ## Getting ready.
 
-The site is already taking shape. I’ve finally managed to get the site theme in order. It’s probably too dark for some folks’ taste. I’ll see if a theme switcher can do the trick.
+The site is already taking shape. I’ve finally managed to get the site theme in order. It’s probably too dark for some folks’ taste so I’ll see if a theme switcher can do the trick.
