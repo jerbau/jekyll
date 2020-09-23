@@ -17,5 +17,3 @@ You can donate [₱100][paymaya-100] thru <em>PayMaya</em>, <em>[buy me a pizza]
 [buymeacoffee]: https://buymeacoff.ee/jerbau
 
 [patreon]: https://www.patreon.com/jerbau
-
-

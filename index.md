@@ -7,18 +7,22 @@ layout: home
 
 ## Level of emergency
 
+<i class="fas fa-home"></i> TCEV <br />
+<i class="fas fa-university"></i> Antipolo City Hall <br />
+<i class="fas fa-bacteria"></i> Covid-19 <br />
+
 ### Village
-* Village Security
-* Home Repair
-* Auto Mechanic
+* <i class="fas fa-shield-alt"></i> Village Security
+* <i class="fas fa-toolbox"></i> Home Repair
+* <i class="fas fa-wrench"></i> Auto Mechanic
 
 ### Barangay
-* Police Department
-* Ambulance/Hospital
-* Fire Department
+* <i class="fas fa-bullhorn"></i> Police Department
+* <i class="fas fa-hospital-alt"></i> Ambulance/Hospital
+* <i class="fas fa-fire-extinguisher"></i> Fire Department
 
 ### City
-* Red Cross
+* <i class="fas fa-hand-holding-medical"></i> Red Cross
 * Covid-19
 
 ### Utilities

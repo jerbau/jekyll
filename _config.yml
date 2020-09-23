@@ -21,14 +21,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   government agency during an emergency.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tcev-emergency.onrender.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jerbau
-linkedin_username: jerbau
-instagram_username: jerbau
-github_username:  jerbau
-facebook_username: jerbau
 dribbble_username: jerbau
-
-site.minima.date_format: "%-d%b%Y"
+facebook_username: jerbau
+flickr_username: jerbau
+github_username: jerbau
+pinterest_username: jer_bau
+mastodon: jerbau
+instagram_username: jerbau
+linkedin_username: jerbau
+twitter_username: jerbau
+youtube_username: JeromeBautista
 
 google_analytics: UA-178036965-1
 
@@ -39,8 +41,11 @@ markdown: kramdown
 theme: minima
 minima:
   skin: dark
+  date_format: "%-d%b%Y"
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-font-awesome-sass
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
