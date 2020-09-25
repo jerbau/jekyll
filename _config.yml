@@ -34,6 +34,10 @@ youtube_username: JeromeBautista
 
 google_analytics: UA-178036965-1
 
+jekyll_get_json:
+  - data: tcev
+    json: http://localhost:5000/entity
+
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings

@@ -7,6 +7,12 @@ layout: home
 
 ## Level of emergency
 
+
+<ul>
+{% for entity in site.data.tcev %}
+<li>Title: {{ entity.title }}</li>
+{% endfor %}
+</ul>
 <i class="fas fa-university"></i> Antipolo City Hall <br />
 <i class="fas fa-bacteria"></i> Covid-19 <br />
 

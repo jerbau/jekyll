@@ -1,0 +1,26 @@
+{
+    "entity" : {
+        "id": 1,
+        "title": "Town and Country Executive Village",
+        "alias": "TCEV",
+        "fa": null,
+        "hours": "8am-5pm (Mon-Sat) & 8am-11am (Sun)",
+        "contact": [
+            ["8655 5520", "landline"],
+            ["8645 2075", "telefax"]
+        ],
+        "area": "village",
+        "gpc": ["J4C6+93", "7Q63J4C6+93"],
+        "address": [
+            ["line1", "Mahogany Avenue"],
+            ["line2", "TCEV, Barangay Mayamot"],
+            ["city", "Antipolo"],
+            ["country", "Philippines"],
+            ["zip", "1870"]
+        ],
+        "tag": [
+            "tcev",
+            "village"
+        ]
+    }
+}
